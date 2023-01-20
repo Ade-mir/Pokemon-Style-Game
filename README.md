@@ -5,13 +5,14 @@ Learning to create a pokemon styled game.
 TODOS
 
 1.  Map Cration with Tiled Map Editor:
-    1.1 Download and setup - Find assets - Download Tiled. - Import into project
-    1.2 Tile layering for ocean and landmasses
-    1.3 Layering and placement of trees
-    1.4 Landscape details
-    1.5 Collisions and map boundaries.
-    1.6 Foreground layers
-    1.7 Export layers for project import
+    DONE 1.1 Download and setup - Find assets - Download Tiled. DONE - Import into project
+    DONE 1.2 Tile layering for ocean and landmasses
+    DONE 1.2.5 Tile layering for plateau
+    DONE 1.3 Layering and placement of trees
+    DONE 1.4 Landscape details
+    DONE 1.5 Collisions and map boundaries.
+    DONE 1.6 Foreground layers
+    DONE 1.7 Export layers for project import
 
 2.  Player and map development:
     2.1 Project setup
