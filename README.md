@@ -15,8 +15,8 @@ TODOS
     DONE 1.7 Export layers for project import
 
 2.  Player and map development:
-    2.1 Project setup
-    2.2 Import and render map
+    DONE 2.1 Project setup
+    DONE 2.2 Import and render map
     2.3 Player creation
     2.4 Move player through map on keydown
     2.5 Player-to-map-boundary collisions
